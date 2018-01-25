@@ -1,0 +1,61 @@
+.flex_container {
+    margin: 0 15px;
+}
+.flex_container .inline {
+    width: 80px!important;
+    margin: 9px 9px 9px 0;
+}
+.flex_container .small {
+    height: 20px!important;
+    line-height: 20px!important;
+}
+.sub_title {
+    color: #888;
+    font-size: 14px;
+    padding: 30px 0 18px 0;
+}
+.placeholder {
+    background-color: #ebebef;
+    color: #bbb;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    width: 100%;
+}
+.box_in{
+    width: 50%;
+    float: left;
+    padding: 0.4rem;
+    box-sizing: border-box;
+}
+.box_in img{
+    width: 100%;
+}
+.box_router{
+    display: inline-block;
+    width: 100%;
+    border-radius: .4375rem;
+    overflow: hidden;
+    box-shadow: 0 0.75rem 1.875rem rgba(0,0,0,.05)
+}
+.box_in .listName{
+    color:#555;
+    font-size: 1rem;
+    line-height: 1.3rem;
+
+    height: 2.5rem;
+    overflow:hidden;
+}
+.box_in p{
+    color:#555;
+    white-space: nowrap;
+    padding-top: 0.6rem;
+}
+.text{
+    padding: 1rem 1rem;
+    padding-top: 0.6rem;
+}
+.wrap{
+    overflow: hidden;
+    background-color: rgb(255, 255, 255)
+}
